@@ -3,3 +3,4 @@ Bert_base_uncased
 data
 src/distilbert.py
 src/__pycache__
+.ipynb_checkpoints
